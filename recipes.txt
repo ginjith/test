@@ -5,6 +5,8 @@ keer
 pasta
 
 chicken
+beans 
+pizza
 
 thank you
 final copy
